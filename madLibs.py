@@ -2,8 +2,9 @@
 
 # Takes a mad libs text file and finds where an ADJECTIVE, NOUN, ADVERB, VERB should be replaced
 # and asks users for a suggestion then saves the suggestion to a text file in the same directory
-# To run type python.exe app.py <path of madlibs text>
-# Eg. python.exe C:\Users\Vandy\PycharmProjects\ATBS\app.py C:\Users\Vandy\Desktop\madlibs.txt
+# Idea from ATBS
+# To run type python.exe madLibs.py <path of madlibs text>
+# Eg. python.exe C:\Users\Vandy\PycharmProjects\ATBS\madLibs.py C:\Users\Vandy\Desktop\madlibs.txt
 
 import sys, os
 
